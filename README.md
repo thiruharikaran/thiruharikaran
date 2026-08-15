@@ -25,18 +25,17 @@
 
 <img align="right" width="220" src="./assets/about.gif" alt="Coding Animation">
 
-I'm a **B.Tech Information Technology graduate** interested in building modern, scalable and user-focused software applications.
+I'm **Thiruharikaran R**, a developer who enjoys turning ideas into practical software and experimenting with different technologies.
 
-- 🎓 B.Tech Information Technology graduate from **SRM Easwari Engineering College**
-- 💻 Interested in **Full Stack Development and Software Engineering**
-- ⚛️ Building web applications using **React.js and modern frontend technologies**
-- 🖥️ Working with **Node.js and Express.js** for backend development
-- 🗄️ Familiar with **MongoDB, MySQL and Firebase**
-- ⛓️ Interested in **Blockchain and Web3 development**
-- ☕ Currently strengthening my **Java and backend development** skills
-- 🚀 Passionate about learning, building projects and improving my development skills
+- 🎓 B.Tech in **Information Technology** from SRM Easwari Engineering College
+- ⚛️ Building modern web applications with **React.js**
+- 🖥️ Developing backend applications with **Node.js and Express.js**
+- 🗄️ Working with **MongoDB, MySQL and Firebase**
+- ⛓️ Exploring **Blockchain and Web3**
+- ☕ Learning and building with **Java**
+- 🧩 Enjoy creating projects that combine different technologies
+- 🚀 Always experimenting, learning and improving through projects
 - 📍 Chennai, Tamil Nadu, India
-- 💼 Open to **Software Developer and Full Stack Developer opportunities**
 
 <br clear="right"/>
 
@@ -221,10 +220,9 @@ I'm a **B.Tech Information Technology graduate** interested in building modern, 
 
 <div align="center">
 
-### 💡 Building • Learning • Improving
+### ⚡ Building • Experimenting • Learning
 
-Always open to learning new technologies, building meaningful projects and connecting with other developers.
-
-⭐ **Feel free to explore my repositories and projects.**
+I enjoy exploring new technologies, building things from scratch,
+and turning random ideas into working projects.
 
 </div>
