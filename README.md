@@ -46,8 +46,8 @@ I'm **Thiruharikaran R**, a developer who enjoys turning ideas into practical so
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
 | **VeriQore** | Blockchain-based certificate verification system designed to provide secure and transparent certificate authentication with role-based access. | React.js • Node.js • MongoDB • JWT • Solidity • Ethereum • Web3.js | [🌐 Live Demo](https://veriqore.vercel.app) • [💻 Source Code](https://github.com/thiruharikaran/blockchain-certificate-verification-system) |
-| **Personal Portfolio** | Responsive personal portfolio showcasing my skills, education, internships, projects and experience. | React.js • Vite • Tailwind CSS • Framer Motion | [💻 Source Code](https://github.com/thiruharikaran/thiruharikaran) |
-| **Parking Lot Management System** | Web-based parking lot management system developed during my web development internship. | HTML • CSS • JavaScript | Internship Project |
+| **Personal Portfolio** | Responsive personal portfolio showcasing my skills, education, internships, projects and experience. | React.js • Vite • Tailwind CSS • Framer Motion | • [🌐 Live Demo](https://parking-lot-management-demo.netlify.app/) • [💻 Source Code](https://github.com/thiruharikaran/parking-lot-management-system)|
+| **Parking Lot Management System** | Web-based parking lot management system developed during my web development internship. | HTML • CSS • JavaScript | • [🌐 Live Demo](https://thr-technologies.netlify.app/) • [💻 Source Code](https://github.com/thiruharikaran/react-portfolio-website)|
 
 ---
 
