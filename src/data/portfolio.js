@@ -16,7 +16,7 @@ export const quickFacts = [
   { label: '3+ Major Projects', value: 'Shipped' },
   { label: 'Full Stack Developer', value: 'Focus' },
   { label: 'React & Node.js', value: 'Core Stack' },
-  { label: 'Open to Relocation', value: 'Bengaluru' },
+  
 ]
 
 export const skills = [
